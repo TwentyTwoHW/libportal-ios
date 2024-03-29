@@ -1,0 +1,3 @@
+[submodule "portal-software"]
+	path = portal-software
+	url = https://github.com/afilini/portal-software.git

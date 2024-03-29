@@ -1,0 +1,1 @@
+./portal-software/sdk/libportal-ios/libportal-ios.podspec
